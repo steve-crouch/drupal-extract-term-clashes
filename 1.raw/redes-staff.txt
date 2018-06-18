@@ -1,0 +1,7 @@
+3612,17059022-7e61-491d-ae6e-5c97bc283a37,Director,,,0,,
+3613,1d3829e6-5310-44f8-afb5-1e692e2aa95f,Co-Investigators,,,1,,
+3614,416fbbed-5e82-428b-aaea-20bb3c0a161a,"Team Leads",,,2,,
+3615,5a8b2eac-8187-463b-9c98-8f4621c9b3df,Consultants,,,3,,
+3616,4a792285-59f6-4a52-b691-ff48d7b859bb,"RSE Coordinator",,,4,,
+3618,5458f668-fe61-491c-bc1d-854612fb172b,"Advisory Board",,,5,,
+3617,dc153388-9561-4744-b6c4-63a8d20ae501,Alumni,,,6,,
